@@ -21,7 +21,7 @@ Sample solution for the [github-user-activity](https://roadmap.sh/projects/githu
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/momed-ali01/github-user-activity.git
+git clone https://github.com/<username>/github-user-activity.git
 cd github-user-activity
 ```
 
